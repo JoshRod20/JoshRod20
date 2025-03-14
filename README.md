@@ -30,8 +30,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.instagram.com/josh_knny?igsh=NmF4bTRtMnFtOWo2" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo-png&psig=AOvVaw3hx85oa5r0_SjOk02fb_t_&ust=1742072003735000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi615m6iowDFQAAAAAdAAAAABAE" alt="kenn_rod" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/josh_knny" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40"/>
+</a>
+
 <br>
 
 
